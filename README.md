@@ -51,4 +51,3 @@ Generated Password:  k#8P!vQ92m@X
 Assessment: 
 - Strong Password!
 - Entropy: 78.7 bits. Score: 95/100.
-💡 Key Technical LearningsCSPRNG vs Pseudo-Random: Understanding why secrets must be used for security sensitive applications instead of standard PRNGs (random).Information Theory: Applying Shannon Entropy in Python to mathematically quantify password guessability.Regex Pattern Matching: Using re for lookahead/repeated sequence detection ((.)\1\1) and sequence matching (123|234|...).Defensive Engineering: Guaranteeing at least one character from every enabled character set before shuffling.👨‍💻 Author: Adham Farag🚀 Part of: 30 Days of Python Projects Challenge

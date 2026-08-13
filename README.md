@@ -39,9 +39,7 @@ Developed as **Day 03** of my **30 Days of Python Challenge**, with an emphasis 
                                                         │
                                                         ▼
                                              [ Final Score & Feedback ]
-🧮 Mathematical ModelShannon Entropy Formula:$$E = L \cdot \log_2(R)$$Where:$L$: Password Length.$R$: Character Pool Size ($26 \text{ lowercase} + 26 \text{ uppercase} + 10 \text{ digits} + 32 \text{ symbols} = 94 \text{ max}$).💻 How to RunPrerequisitesPython 3.8+ installed on your system.Running the ApplicationClone the repository:Bashgit clone [https://github.com/adham-farag/30-Days-Of-Python.git](https://github.com/adham-farag/30-Days-Of-Python.git)
-cd "30-Days-Of-Python/Week-1/PG&SC"
-Run the tool:Bashpython3 PG&SC.py
+
 📖 Sample OutputPlaintext==== PG&SC Tool ====
 1. Generate Password
 2. Check Password Strength
